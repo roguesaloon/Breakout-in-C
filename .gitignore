@@ -1,0 +1,8 @@
+*.suo
+*.user
+*.db
+*.opendb
+/Debug/*
+/Release/*
+/.vs/*
+
