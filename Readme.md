@@ -1,0 +1,1 @@
+A Basic Game written in pure C with SDL2. More of a proof of concept/tutorial on using C, and programming without Object Oriented principles.
